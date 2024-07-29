@@ -1,7 +1,3 @@
-Sure! Here's a draft for your README file:
-
----
-
 # Hospital Info System API
 
 This repository contains the code for the Hospital Info System API, a project designed to manage hospital information efficiently.
