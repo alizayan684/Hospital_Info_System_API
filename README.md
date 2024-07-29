@@ -3,7 +3,7 @@
 This repository contains the code for the Hospital Info System API, a project designed to manage hospital information efficiently.
   
 ## Introduction
-The Hospital Info System API is built to streamline the management of hospital data, including patient records, staff information, and appointment scheduling. This project is implemented using **Node.js** and **Express**.
+The Hospital Info System API is built to streamline the management of hospital data, including patient records, staff information, and appointment scheduling. This project is implemented using **Node.js** and **Express**. The Database is **PostgreSQl** and the testing was done using **Postman**.
 
 ## Features
 - **Patient Management**: Add, update, and delete patient records.
