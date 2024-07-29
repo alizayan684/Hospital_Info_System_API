@@ -12,8 +12,7 @@ This repository contains the code for the Hospital Info System API, a project de
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 The Hospital Info System API is built to streamline the management of hospital data, including patient records, staff information, and appointment scheduling. This project is implemented using **Node.js** and **Express**.
 
@@ -47,9 +46,3 @@ The Hospital Info System API is built to streamline the management of hospital d
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify this template to better suit your project's specifics!
