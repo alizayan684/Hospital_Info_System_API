@@ -5,13 +5,6 @@ Sure! Here's a draft for your README file:
 # Hospital Info System API
 
 This repository contains the code for the Hospital Info System API, a project designed to manage hospital information efficiently.
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
   
 ## Introduction
 The Hospital Info System API is built to streamline the management of hospital data, including patient records, staff information, and appointment scheduling. This project is implemented using **Node.js** and **Express**.
